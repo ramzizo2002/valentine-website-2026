@@ -48,7 +48,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest man in the world! 🎉💝💖💝💓",
+        title: "I'm the luckiest man in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big hug and a cheeky kiss ;)",
         emojis: "💖❤️❤️❤️❤️❤️"  // These will bounce around
     },
@@ -61,19 +61,19 @@ const CONFIG = {
             // Add your photos here
             // Example format:
             {
-                url: "https://via.placeholder.com/300x200/ffafbd/ffffff?text=Our+First+Date+💕",
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/First Date.JPG",
                 caption: "Our first date 💕"
             },
             {
-                url: "https://via.placeholder.com/300x200/ffc3a0/ffffff?text=That+Special+Moment+💖",
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/That special moment.png",
                 caption: "That special moment 💖"
             },
             {
-                url: "https://via.placeholder.com/300x200/ff6b6b/ffffff?text=Always+Together+💝",
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/Always Together.heic",
                 caption: "Always together 💝"
             },
             {
-                url: "https://via.placeholder.com/300x200/ff8787/ffffff?text=My+Favorite+Memory+❤️",
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/20250721_160411000_iOS.MP4",
                 caption: "My favorite memory ❤️"
             }
             // To add your own photos:
