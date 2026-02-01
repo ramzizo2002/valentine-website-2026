@@ -69,12 +69,20 @@ const CONFIG = {
                 caption: "That special moment 💖"
             },
             {
-                url: "https://ramzizo2002.github.io/valentine-website-2026/images/Always Together.heic",
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/Always Together.png",
                 caption: "Always together 💝"
             },
             {
-                url: "https://ramzizo2002.github.io/valentine-website-2026/images/20250721_160411000_iOS.MP4",
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/Favorite Memory.jpg",
                 caption: "My favorite memory ❤️"
+            },
+            {
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/first valentine.png",
+                caption: "My first valentine ❤️"
+            },
+            {
+                url: "https://ramzizo2002.github.io/valentine-website-2026/images/Gemini_Generated_Image_6hynry6hynry6hyn.png",
+                caption: "My Last valentine ❤️"
             }
             // To add your own photos:
             // 1. Upload photos to an image hosting service like Imgur, Cloudinary, or GitHub
